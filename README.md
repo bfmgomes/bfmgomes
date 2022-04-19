@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Bruno</h1>
 
-- I am an entrepeneur, party rocker and full stack developer from Porto, Portugal.
+- I am an entrepreneur, party rocker and full stack developer from Porto, Portugal.
 - Currently working at [Critical Techworks](https://www.criticaltechworks.com/) for BMW Group <q>developing applications to assist the driver and continuously improve the experience of using a BMW car</q>.
 
 <h2>📫 How to reach me</h2>
